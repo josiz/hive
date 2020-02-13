@@ -1,0 +1,9 @@
+# First we need to add the line "net.ipv4.ip_forward = 1" to /etc/sysctl.conf
+#
+#
+# Because login.42.fr has three different IP:s, we need to redirect all three of them.
+# Redirecting all three IP:s requires three lines as so:
+#
+# "iptables -t nat -A OUTPUT -d [ipaddress1] -j DNAT --to-destination [ipaddress2]"
+#
+# ipaddress1 is redirected to ipaddress2

@@ -1,0 +1,3 @@
+/root/.ssh/authorised_keys
+
+# The .ssh folder is created only after the first ssh connection made

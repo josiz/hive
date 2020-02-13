@@ -1,0 +1,3 @@
+hostname <new_user>
+
+# Become root user by typing "su -" and password after that

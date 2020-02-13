@@ -1,0 +1,1 @@
+networksetup -listallhardwareports | Grep "Device" | cut -d " " -f 2

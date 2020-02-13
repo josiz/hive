@@ -1,0 +1,4 @@
+ifconfig en1 | grep ether | cut -d " " -f 2
+
+# assuming the en1 is wifi. en0 is ethernet.
+

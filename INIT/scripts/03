@@ -1,0 +1,5 @@
+#!/bin/bash
+
+fdisk -l
+
+# Tells you how much space are there in your hard drives

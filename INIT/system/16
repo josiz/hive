@@ -1,0 +1,5 @@
+# write 'sudo crontab -e'. Follow instructions and edit the file according to the instructions.
+#
+# Five stars indicates the minute, hours, day of month, month, day of week. IN NUMBERS.
+#
+# Example '0 1 * * 5 /bin/execute/this/script.sh' executes script.sh on 1AP every friday.

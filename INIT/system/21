@@ -1,0 +1,3 @@
+cut -d ":" -f1,3 /etc/passwd | egrep ':[0-9]{4}$' | cut -d ":" -f1
+
+# The third part tells the user ID. Real users are given an ID starting from 1000.

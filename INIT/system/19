@@ -1,0 +1,3 @@
+systemctl | awk '{print $1}'
+
+# systemctl prints the services running and stopped already running. Grepped only the service name

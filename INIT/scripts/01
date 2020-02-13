@@ -1,0 +1,4 @@
+#!/bin/bash
+cat /etc/passwd | awk -F ":" '{print $1, $3, $7}'
+
+# First awk cuts the string from ":" characters. Print prints the login name, UID and hte path

@@ -1,0 +1,4 @@
+# in ssh session you can connect with 'ssh "user"@"ip"' command.
+#
+# in graphical you can use for example PuTTY program. You can download it to debian sith the command:
+# sudo apt-get install -y putty

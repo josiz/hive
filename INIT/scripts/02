@@ -1,0 +1,5 @@
+#!/bin/bash
+
+x=whoami
+
+deluser $x

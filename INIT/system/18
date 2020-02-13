@@ -1,0 +1,4 @@
+service ssh kill
+
+# you can check the status of ssh by 'service ssh status'
+# you can start the ssh again with 'service ssh start'

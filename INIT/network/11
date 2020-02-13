@@ -1,0 +1,10 @@
+# Write traceroute slash16.org.
+#
+# What you get for the first three lines are:
+# 1. Your own address
+# 2. The NAT, which is the translator modifying my subnet IP to global IP
+# 3. is the global IP
+#
+# 1  10.11.254.254 (10.11.254.254)  1.001 ms  0.532 ms  0.517 ms
+# 2  nat (10.60.1.1)  0.226 ms  0.278 ms  0.227 ms
+# 3  194.136.126.33 (194.136.126.33)  0.811 ms  0.711 ms  0.662 ms
