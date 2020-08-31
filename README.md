@@ -1,4 +1,4 @@
-# hive
+# HIVE
 This repository includes all the projects made with C
 
 # Piscine reloaded
@@ -6,3 +6,8 @@ First project with some basic C tasks
 
 # Libft
 My own C library. Includes some usefull functions
+
+# Get_next_line (GNL)
+It is a function that reads a file and allows you to read a line ending with a newline character from a file descriptor. When you call the function again on the same file, it grabs the next line
+
+![Test iamge](https://lh3.googleusercontent.com/QUcL83MD-c0ynk2uWANQrBDYn1AnQQsKUa6fbfWx1zrqMtVZEPlb5nefGfR7Fi7GjWOyJej1ahUAoTL9uwpz5ii-Inzck9j2iRETobC3j7zDLiD-tXhTZjGI3_0iqUeMUixTyXeVHwCirg-e4gIK_XrFOVOr-vjMMt0GJLlF0lpbPPk_Fb1RaHyhZsuMXi30CA6h-5bIbmnDkP15Mk7du1fTMJOr6gk6D76OV9ClCu5JpkeppUyCcbFJJ35ILBqoHUNEkwuUIar3zfzZ8v4KzD4J0dXNJYYDtH_bJDFlaX6oqxXowVfjcE2_EBF5mDMiaXIaByo8FF_7lffYK0Ap2Hd_ASxuzf2STRhjLUs0FAC2t7MtAW1FkkurJXsc72Uvmh6um2qiYR34PpTKlcO7-dJXWOAKQ7Qrni4sULS4-nqIuvvkydVVjRA5B5QFyy6juvyT2lSlss1XmA36fq-VM6RBAyA2trbhf38joIiK4vbRxfkKsA885-DnzWuK2Cu6jwpTKsmKhDQm0sbw9chCUmBdFTDAHz0zJCa05ajRkhUyfWylpoy1jwIbC1Hp2dN8jDG6-YbU4YtuNWWq3ElffmoPLvhJKpAXf97KVpXa0vZ1K_99xIqpxTJypE5Iw30zLcXF2Abcro2fAGO1179v_MOVQ-FupvKO9VBP0RbRNDE1b3ZhsPSDUlr9wV1ujg=w857-h899-no?authuser=0)
