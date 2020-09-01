@@ -24,7 +24,7 @@ Run the Makefile and give the program valid blocks (samples included) as argumen
 
 ## FDF
 
-A simple 3D height-map renderer. You can rotate, zoom, move and change the height of the models, color is defined by relative height in the map. There are three different projections as how you can view the model.
+A simple 3D height-map renderer. You can rotate with mouse, zoom, move and change the height of the models, color is defined by relative height in the map. There are three different projections as how you can view the model.
 
 Run the Makefile and give the program a valid map (samples included) as argument.
 
