@@ -1,4 +1,4 @@
-# HIVE
+# HIVE C
 This repository includes all the projects made with C
 
 ## Piscine reloaded
