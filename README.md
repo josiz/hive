@@ -22,7 +22,7 @@ The orientation of the blocks are not changed.
 
 ## FDF
 
-A simple 3D height-map renderer. You can rotate, zoom and move models, color is defined by relative height in the map. There are three different projections as how you can view the model.
+A simple 3D height-map renderer. You can rotate, zoom, move and change the height of the models, color is defined by relative height in the map. There are three different projections as how you can view the model.
 
 ![FDF42](https://lh3.googleusercontent.com/nNO8zE06Q9YuHN_IwBIzrO8xrfTL9D7Wqv5ZhZTvBZCi9pdC1vMr_Ls7D0KeGjmJsAgwzhb0Wt-cNE-KX_JXXoS9KDKO_yR__aaJLYo5hZY2geKzJPgM9Yzi9Dt52LbdXE-WTVOtrkjvWUnE8UzpUvh2zgn3QG_6ZJuYBJ39PF1DIv6uYvgLouzJQGJyhGN2yWYlLxUdlCkPD1rXetTTSr4t_08mVphPTO-f0dtVmdsSWlOT7kQXXPjczzEEUWqJ1f_ExR16RRVgvszYIpwMZZy4WoxxvvFg4ptEVIu5pFBLoXz47ikH9By5RK9z-xx91EhkUfMYXvOODeBzDZl5kuRIhRXxfmnVaBLsbF90950Lu61paBZJPS795hCO4SNEcRBoQttUjJjdMTayW2H5p4Y2jopc-63sU5GWebqZjyELpK7C4vEnKyiF1Fl5kaz_rRG9YhTVyyop6X5Kwap64LLXjZTYTnBttWJvoCz2eDABnSwwHcHr0FbAuiw_As2wXXO-fzpU_RB3DNq_uF_lk5FiidG7XMaHhW2k-Mn7vUwK-nHwL-xFed-pRli_ImfZCRu68ZYtWGDFumJ3XqkhJWZdOHqRWEX5ny-r6S8RwCO9x7zalYvKHYhhlo2kzyPX3zKK6HH-ufyJUcNg7lLYMas56VnRwQoaWBmmjT6lbfYAgNgO1RfsgkzxknYPpA=w1186-h708-no?authuser=0)
 
