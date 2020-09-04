@@ -28,15 +28,15 @@ A simple 3D height-map renderer. You can rotate with mouse, zoom, move and chang
 
 Run the Makefile and give the program a valid map (samples included) as argument.
 
-![FDF42](https://photos.app.goo.gl/bUSPwuWYQG6uFJr78)
+![FDF42](https://lh3.googleusercontent.com/pw/ACtC-3cqVtX4pWRXbd8qQF7DM3Ss-lYTZhnpAc6xS3jKinlg-jEQu-7Z8m6BgZGowBrYiBR67cm1kzmL-0irxXaCVoQ9K2p1xX4IrRVjw9ShLfeGDK1DFaKdB9pIFptD2UgHaN1KgVEhKasql3jJ5riFerUf=w947-h565-no)
 
-![FDF42](https://photos.app.goo.gl/1oM4rw34fqZ7M1Up8)
+![FDF42](https://lh3.googleusercontent.com/pw/ACtC-3fuuA-TuF2eTGge8ftbbRWUJxLPb-BJOMnqwcPML4uhYDjz-45ih4Xutmn4NIY4AbBdIYzcdTRUUI5gZV44wnSwO6RlkXI1Sy9nt5ukAdufORvpXE65lwix513U1C5MZH0oevsZ8FNP2mqMeDRP1kZj=w946-h683-no)
 
-![FDFpyra](https://photos.app.goo.gl/cAakkoT1aFzWmLMX7)
+![FDFpyra](https://lh3.googleusercontent.com/pw/ACtC-3cnuRkCoLZGg5DNsjMGC1c-B7qNdvVoH_Y2VZ6NKL9E27CmvjJob9MdAYet8Bp8ms8UrAsl6s8JjBtV9PMWK349Zye1tzQa8gfc_OFBk9yJEreHS6McILsct5Z4VCy6VNVojBVLrRQ3FR5skHm02Rpf=w946-h538-no)
 Part of mars landscape
-![FDFmars](https://photos.app.goo.gl/wdZguJ9iY6moz3Xv8)
+![FDFmars](https://lh3.googleusercontent.com/pw/ACtC-3dUZKEmRQQ4BRdJVIre0iTmjLPGY6iSKuxHo7_hbLmyRYb315JFjr5ZxJu2vhoei3rJQWmOUXUEE7ujrs4khHFGNk5jL52rkO_88yOhKPV-60b26VF2mHzf6fbb84buQHAjmTIPzh_tVACSicQXW72s=w946-h422-no)
 Part of the landscape of southern Finland. Altiture differences enhanced...
-![FDFESuomi](https://lh3.googleusercontent.com/_MtSZEsUnKe8EcnUDn-3TV3iEXsOv2AyF7QdTh_5ddoIpyJUl-MjilkJC_9ax3G2nG-kxIIFRhDs4lskZbt2XQ0-HOEhKTZNXWeHoLIb_TzleIymnjOpq7pRv_yWd-FkaBFqyUTOXRGviVgb3ED_SYbFyJaJrgwQyAp2GEED1OBKZkayPFtR2F0J0wYiNh35YSaOe8kJVxQXpNSQUeSkIYvbyPhZhZwyFq3QYjTPJ_15yF1xFgDm7LZwaYFZb2LJuEU0a-5MzD5K-YzTFqNMb_21W-6ghv1LTRoxy4sc643akVCd2-_CeCkUSAR9CPbp8JogwAZDjF97LYv3rlSyWyQD54Ejd8pLOqLYblV8Xh1r1UN9wzphRasWs1qqrqxemcydRNZc8jlCyqcCkUNvLrUeSFMR1jipUo842MnS88RaFVOAGk7qYV2_NOMOnySjk9LfbGsQPrjJYxc-98yltwW_z1Gxg0KFbOxmVlgmnDJyelsEuEn9CQf0ZIsOk2sU-PWjdXm57NdAa9sVC_UchVbo9useWUT8lgZe_YFXcTU3QgcnHTme-acY3Uu2VEOU_-AsXdRolFB7mn4G4Fq3JNsSSfSuiE1XUF4T1NGYVhO6-oGo_U49RFy25IeHvkCvgDrf3ectT5f9er4l6YNs9dpS-GJ6q-YQdiGDE5QYxstwaMSTRDvYM6AbtAzLGw=w1186-h630-no?authuser=0)
+![FDFESuomi](https://lh3.googleusercontent.com/pw/ACtC-3ejphUkKHT1o6SGHRowm1_ZqmYHHHfN8bfl65sec3v3Vp1aK2hX2w1LcWo1aaLlzaUOTu9KMoUnFGQVMSphBvhQzQZW2Q9kG1P1HXbWqlJbj9cmZwuxkXX7RfySgUcVe01FQ97vsiCPbqglnR3NYyxh=w946-h503-no)
 
 ## Printf
 
